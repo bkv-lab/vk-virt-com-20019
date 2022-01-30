@@ -1,4 +1,4 @@
-# Bykov's R - Political groups in Vkontakte, 2019
+# Prof.Bykov's R - Political groups in Vkontakte, 2019
 
 # Check your working directory
 getwd()
